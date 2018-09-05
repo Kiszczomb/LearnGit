@@ -59,4 +59,4 @@ rl.question('Podaj liczbę do sprawdzenia jej cech: ', (number) => {
 });
 
 
-// dodajem ładny opis
+// albo nie
