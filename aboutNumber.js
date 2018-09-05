@@ -57,3 +57,6 @@ rl.question('Podaj liczbę do sprawdzenia jej cech: ', (number) => {
 
   rl.close();
 });
+
+
+// dodajem ładny opis
