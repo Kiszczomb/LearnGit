@@ -50,7 +50,7 @@ function aboutNumber(num) {
   }
 }
 
-//Third: input and effect
+//Third: input
 
 rl.question('Podaj liczbę do sprawdzenia jej cech: ', (number) => {
   console.log(aboutNumber(number));
